@@ -1,16 +1,20 @@
-## Hi there 👋
+# Global Digital Agency
 
-<!--
-**GDigitalAgency/GDigitalAgency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web agency based in Ajaccio, Corsica (France). We build booking tools for WordPress.
 
-Here are some ideas to get you started:
+## GDA Kraft Booking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A free WordPress booking plugin for vacation rentals, guest houses and appointments: availability calendar, seasonal rates, minimum stay, extras, tourist tax, Airbnb / Booking.com iCal sync, Gutenberg blocks, Elementor widgets and native Divi 5 modules. Interface in English, French, Spanish, Italian, German and Brazilian Portuguese.
+
+- Plugin: https://wordpress.org/plugins/gda-kraft-booking/
+- Kraft GDA account (online payments, appointments, dashboard): https://app.global-digital-agency.fr
+
+## Website templates
+
+A catalogue of complete website templates (vacation rental, agency, booking platform, appointments) for Gutenberg, Divi 5 and Elementor, with booking built in. Coming soon.
+
+## Links
+
+- Website: https://global-digital-agency.fr
+- YouTube: https://www.youtube.com/@GlobalDigitalAgency-GDA
+- Contact: contact@global-digital-agency.fr
